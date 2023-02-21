@@ -41,24 +41,3 @@ max-width: 100%;
     color: rgb(0, 0, 0);
     background-color: aquamarine;
   }
-
-  @media (min-width: 480px) {
-    body{
-      background-color: #454545;
-    }
-  }
-  @media (min-width: 768px) {
-    body{
-      background-color: rgba(236, 0, 236, 0.467);
-    }
-  }
-  @media (min-width: 1140px) {
-    body{
-      background-color: #ee0505;
-    }
-  }
-  @media (min-width: 1400px) {
-    body{
-      background-color: rgba(0, 236, 126, 0.467);
-    }
-  }
